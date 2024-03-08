@@ -3,6 +3,7 @@ Laboratory assignments from the COMPX101 paper completed within 2021 @ The Unive
 
 
 **Week 1**
+  
   Skills Learnt (): 
   
     -
@@ -16,6 +17,7 @@ Laboratory assignments from the COMPX101 paper completed within 2021 @ The Unive
     -
     
 **Week 2**
+  
   Skills Learnt (): 
   
     -
@@ -29,6 +31,7 @@ Laboratory assignments from the COMPX101 paper completed within 2021 @ The Unive
     -
   
 **Week 3**
+  
   Skills Learnt ():
     -
 
@@ -41,6 +44,7 @@ Laboratory assignments from the COMPX101 paper completed within 2021 @ The Unive
     -
   
 **Week 4**
+  
   Skills Learnt ():
   
     -
@@ -54,6 +58,7 @@ Laboratory assignments from the COMPX101 paper completed within 2021 @ The Unive
     -
   
 **Week 5**
+  
   Skills Learnt (): 
 
     -
@@ -67,6 +72,7 @@ Laboratory assignments from the COMPX101 paper completed within 2021 @ The Unive
     -
   
 **Week 6**
+  
   Skills Learnt ():
 
     -
@@ -80,6 +86,7 @@ Laboratory assignments from the COMPX101 paper completed within 2021 @ The Unive
     -
   
 **Week 7**
+  
   Skills Learnt ():
 
     -
@@ -93,6 +100,7 @@ Laboratory assignments from the COMPX101 paper completed within 2021 @ The Unive
     -
   
 **Week 8**
+  
   Skills Learnt ():
 
     -
@@ -106,6 +114,7 @@ Laboratory assignments from the COMPX101 paper completed within 2021 @ The Unive
     -
   
 **Week 9**
+  
   Skills Learnt ():
 
     -
@@ -119,6 +128,7 @@ Laboratory assignments from the COMPX101 paper completed within 2021 @ The Unive
     -
   
 **Week 10**
+  
   Skills Learnt ():
 
     -
@@ -132,6 +142,7 @@ Laboratory assignments from the COMPX101 paper completed within 2021 @ The Unive
     -
 
 **Week 11**
+  
   Skills Learnt ():
 
     -
